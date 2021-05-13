@@ -8,7 +8,7 @@ def sign_in(meetingid,meetingpass):
     print("[+] Starting Zoom.")
     time.sleep(1)
 
-    subprocess.call(r'C:\Users\Baran\AppData\Roaming\Zoom\bin\Zoom.exe')
+    subprocess.call(r'Enter your zoom directory here')
 
     time.sleep(5)
 
